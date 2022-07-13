@@ -19,4 +19,4 @@ A blockchain-based ledger system is built and completed with a user-friendly web
 <video src=Resources/PyChain_Ledger_System_video.mov controls="controls" style="max-width: 730px;">
 </video>
 
-![name](Resources/PyChain_Ledger_System_video.mov)
+![PyChain Ledger System Demo](Resources/PyChain_Ledger_System_video.mp4)
