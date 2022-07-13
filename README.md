@@ -18,3 +18,5 @@ A blockchain-based ledger system is built and completed with a user-friendly web
 **3) Demonstration of adding transaction block to ledger system and verifying the integrity of data.**
 <video src=Resources/PyChain_Ledger_System_video.mov controls="controls" style="max-width: 730px;">
 </video>
+
+![name](Resources/PyChain_Ledger_System_video.mov)
